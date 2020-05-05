@@ -1,2 +1,2 @@
 # aws
-learning awsw
+learning aws
